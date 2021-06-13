@@ -1,4 +1,4 @@
-# A Deno on Gitpod
+# A Deno app on Gitpod
 
 This is a [Deno](https://deno.land/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 

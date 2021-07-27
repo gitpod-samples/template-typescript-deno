@@ -4,10 +4,8 @@ image:
 
 tasks:
   - command: |
-      export DENO_INSTALL="/home/gitpod/.deno"
-      export PATH="$DENO_INSTALL/bin:$PATH"
       deno run --allow-net --unstable webserver.ts
-  
+
 ports:
   - port: 8080
     onOpen: open-preview

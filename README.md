@@ -1,6 +1,6 @@
 # A Deno template on Gitpod
 
-This is a [Deno](https://deno.land/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Deno](https://deno.land/) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 

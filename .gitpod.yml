@@ -9,6 +9,7 @@ tasks:
 ports:
   - port: 8080
     onOpen: open-preview
+    description: Deno preview
 
 vscode:
   extensions:
